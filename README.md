@@ -72,5 +72,6 @@ The working of the project involves the concept of multiplexing. So, before proc
 |:--:|:--:|
 |<img src="images/enclosure1.jpg">|<img src="images/lit_up.jpg">|
 
-
+## Working Video
+[![Watch the video](https://img.youtube.com/vi/jwfrnw1AABk/0.jpg)](https://youtu.be/jwfrnw1AABk)
 
